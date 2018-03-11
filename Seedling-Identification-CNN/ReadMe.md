@@ -7,10 +7,10 @@ https://vision.eng.au.dk/plant-seedlings-dataset/#images-from-the-wild
 
 
 Software used:
-python 3
-jupyter
-pandas
-numpy
-keras
-tensorflow
-tqdm
+python 3,
+jupyter,
+pandas,
+numpy,
+keras,
+tensorflow,
+tqdm,
